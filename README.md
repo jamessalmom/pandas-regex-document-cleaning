@@ -1,4 +1,4 @@
-# Limpeza de CPF/CNPJ (Março)
+# Limpeza de CPF/CNPJ
 
 Método pandas + regex para remover caracteres não numéricos de CPF/CNPJ
 e classificar o tipo de documento pelo tamanho resultante.
